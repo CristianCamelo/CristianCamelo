@@ -58,11 +58,11 @@ Soy un desarrollador Full Stack, con especialización en Front-end. Me destaca m
 Back: NestJs, Express, Render, Swagger, Stripe, Nodemailer, TypeORM,	
 Base de datos: PostgreSQL y Sequelize.
 🚀 **Imagenes:**
-<img src="./assets/Home_1.png" alt="Home" width="100" height="60"> 
-<img src="./assets/AboutUs.png" alt="AboutUs" width="100" height="60"> 
-<img src="./assets/SignUp_1.png" alt="SingUp" width="100" height="60"> 
-<img src="./assets/SignUp_Form_Users.png" alt="UserForm" width="100" height="60"> 
-<img src="./assets/SignUp_Form_Vets.png" alt="VetForm" width="100" height="60"> 
+<img src="./assets/Home_1.png" alt="Home" width="180" height="90"> 
+<img src="./assets/AboutUs.png" alt="AboutUs" width="180" height="90"> 
+<img src="./assets/SignUp_1.png" alt="SingUp" width="180" height="90"> 
+<img src="./assets/SignUp_Form_Users.png" alt="UserForm" width="180" height="90"> 
+<img src="./assets/SignUp_Form_Vets.png" alt="VetForm" width="180" height="90"> 
 
 🔗 **Enlace:** [https://github.com/CristianCamelo/VetsForPets](#)
 
