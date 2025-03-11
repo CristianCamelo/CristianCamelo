@@ -15,6 +15,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiancamelo&show_icons=true&locale=en&layout=compact" alt="cristiancamelo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristiancamelo&show_icons=true&locale=en" alt="cristiancamelo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cristiancamelo&" alt="cristiancamelo" /></p>
