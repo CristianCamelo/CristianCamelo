@@ -57,6 +57,12 @@ Soy un desarrollador Full Stack, con especialización en Front-end. Me destaca m
 🛠 **Tecnologías:** Front: NextJs, React, Tailwind, TypeScript, OAuth, JWT, Zustand, Cloudinary, Calendly, Stripe, React-hook-form, Vercel, WebSocket.io, Leaflet, etc.
 Back: NestJs, Express, Render, Swagger, Stripe, Nodemailer, TypeORM,	
 Base de datos: PostgreSQL y Sequelize.
+🚀 **Imagenes:**
+<img src="./assets/Home_1.png" alt="Home" width="100" height="60"> 
+<img src="./assets/AboutUs.png" alt="AboutUs" width="100" height="60"> 
+<img src="./assets/SignUp_1.png" alt="SingUp" width="100" height="60"> 
+<img src="./assets/SignUp_Form_Users.png" alt="UserForm" width="100" height="60"> 
+<img src="./assets/SignUp_Form_Vets.png" alt="VetForm" width="100" height="60"> 
 
 🔗 **Enlace:** [https://github.com/CristianCamelo/VetsForPets](#)
 
